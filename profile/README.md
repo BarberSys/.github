@@ -57,7 +57,7 @@ Our focus is on:
 ## Meet the Team
 
 ### André Fernandes
-**Co-Founder · Data & Platform**
+**Co-Founder · Data & Product**
 
 Data Engineer with a background spanning data engineering, software, analytics and machine learning.
 
@@ -65,12 +65,12 @@ Experienced in designing and building production data pipelines and data platfor
 
 His background also includes applied AI and Machine Learning research, giving him experience across the full journey from raw data and experimentation to reliable systems and measurable business outcomes.
 
-At BarberSys, André focuses on platform architecture, data strategy, analytics, backend systems and building the foundations that allow the product to learn from real operational data as it scales.
+At BarberSys, André works across product direction, platform strategy, data and analytics, helping define what should be built, why it matters and how the platform can turn operational data into better decisions as it grows.
 
 🌐 [andre-fernandes.com](https://andre-fernandes.com)
 
 ### Vicente Costa
-**Co-Founder · Software & Product**
+**Co-Founder · Software & Engineering**
 
 Software Engineer with both a Bachelor's and Master's degree in Computer Engineering and around 3.5 years of professional experience in full-stack software development.
 
@@ -78,7 +78,7 @@ He started working professionally while completing his Master's degree, combinin
 
 His experience includes technical responsibility across multiple critical areas in the urban mobility space, including a core digital platform, ticketing systems and payment systems.
 
-At BarberSys, Vicente focuses on software engineering, product development, system design and turning operational requirements into reliable, usable software.
+At BarberSys, Vicente leads the technical execution of the product, shaping the software architecture, engineering standards and development of the systems that power the platform, while translating product requirements into reliable and scalable software.
 
 ## Current Status
 
