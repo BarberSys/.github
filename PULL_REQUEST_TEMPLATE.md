@@ -17,19 +17,18 @@ Explain why this change is needed and what problem it solves.
 
 ## How was it tested?
 
-Describe how the changes were validated.
+List the checks performed, their commands or manual steps, and the results. Note skipped or unavailable checks and why; for documentation-only changes, report the relevant document/link/diff checks or explain why a check is not applicable.
 
 Examples:
 
-- Tested locally
-- Manual flow tested
-- Unit tests added or updated
-- Existing tests executed
+- `command` — passed/failed, with relevant output
+- Manual flow and environment — observed result
+- Skipped check — reason or required environment
 
 ## Checklist
 
 - [ ] I reviewed my own changes
-- [ ] I tested the relevant functionality locally
+- [ ] I recorded relevant validation results and explained skipped or inapplicable checks
 - [ ] The change is focused and does not include unrelated modifications
 - [ ] No secrets, credentials or sensitive data were added
 - [ ] Debug code and temporary files were removed
