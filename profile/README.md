@@ -37,8 +37,8 @@ That means helping them:
 
 Our platform is built around three core areas:
 
-- **Online Booking** — simple and flexible appointment booking for customers
-- **Backoffice** — tools for barbers, managers and owners to manage daily operations
+- **Customer App** — simple and flexible appointment booking for customers
+- **Backoffice** — tools for barbers and owners to manage daily operations
 - **Core Platform** — shared infrastructure for scheduling, customers, services, analytics and integrations
 
 ## Our Approach
