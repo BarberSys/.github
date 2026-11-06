@@ -35,11 +35,11 @@ That means helping them:
 
 ## What We're Building
 
-Our platform is built around three core areas:
+Our work focuses on three areas:
 
-- **Customer App** — simple and flexible appointment booking for customers
-- **Backoffice** — tools for barbers and owners to manage daily operations
-- **Core Platform** — shared infrastructure for scheduling, customers, services, analytics and integrations
+- **Customer App** — appointment booking for customers
+- **Barbershop Operations** — tools for barbers and owners to manage daily work
+- **Core Platform** — shared services for scheduling, customers, services and reporting
 
 ## Our Approach
 
@@ -72,7 +72,7 @@ At BarberSys, André works across product direction, platform strategy, data and
 ### Vicente Costa
 **Co-Founder · Software & Engineering**
 
-Software Engineer with both a Bachelor's and Master's degree in Computer Engineering and around 3.5 years of professional experience in full-stack software development.
+Software Engineer with both a Bachelor's and Master's degree in Computer Engineering and professional experience in full-stack software development.
 
 He started working professionally while completing his Master's degree, combining academic training with hands-on experience building and maintaining real-world software systems.
 
