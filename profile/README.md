@@ -1,8 +1,8 @@
 # BarberSys
 
-Building better software for modern barbershops.
+Software for better-run barbershops.
 
-BarberSys is a modular platform designed to help barbershops become more professional, structured and data-driven businesses — while simplifying how they manage appointments, daily operations and customer experiences.
+BarberSys is building software that connects customer booking with day-to-day barbershop operations and gives owners clearer information about their business.
 
 ## How It Started
 
@@ -49,7 +49,7 @@ Our focus is on:
 
 - Simple customer experiences
 - Flexible workflows
-- White-label customization
+- Barbershop-specific branding
 - Operational visibility
 - Data-driven decision making
 - Scalable architecture
@@ -82,6 +82,4 @@ At BarberSys, Vicente leads the technical execution of the product, shaping the 
 
 ## Current Status
 
-BarberSys is currently under active development, starting from a real operational problem and being shaped alongside real barbershop operations.
-
-More coming soon.
+BarberSys is in active development. The areas above describe what we are building; release availability and detailed capabilities will be announced when confirmed.
