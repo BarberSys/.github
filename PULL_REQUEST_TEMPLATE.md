@@ -25,6 +25,14 @@ Examples:
 - Manual flow and environment — observed result
 - Skipped check — reason or required environment
 
+## Documentation and contract impact
+
+- Shared product guidance consulted (document, ref and relevant IDs, or why it does not apply):
+- Owning repository contracts/guidance updated (links, or why no update is needed):
+- Linked shared-documentation PR (link, or why no shared update is needed):
+
+For a public PR, do not paste private documents or sensitive details into this description.
+
 ## Checklist
 
 - [ ] I reviewed my own changes
